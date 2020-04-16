@@ -85,6 +85,9 @@ namespace assgn3_NickIlkic
 
 
             //6 - Use Delegate in a class to calculate area, circumference, biggest side, ...
+            Circle c = new Circle(5);
+            Console.WriteLine(c.area);
+            Console.WriteLine(c.circumference);
 
 
         }
